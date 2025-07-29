@@ -25,12 +25,12 @@
         <td><a href="https://modrinth.com/organization/cleanroommc">🔧 Modrinth</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/CleanroomMC">📦 Repository</a></td>
+        <td><a href="https://github.com/CleanroomMC/Cleanroom">🔨 Cleanroom (Modern Mod Loader)</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/CleanroomMC/TemplateDevEnv">🪚 Forge 1.12.2 Modding Template</a></td>
+        <td><a href="https://github.com/CleanroomMC/CleanroomModTemplate">🪚 Cleanroom Modding Template</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/CleanroomMC/Cleanroom">🔨 CleanroomLoader</a></td>
+        <td><a href="https://github.com/CleanroomMC/TemplateDevEnv">🪚 Forge Modding Template</a></td>
     </tr>
 </table>
