@@ -1,0 +1,66 @@
+name: Bug Report
+description: Crashes, incompatibility and incorrect behaviours.
+labels: [bug]
+body:
+  - type: textarea
+    id: version
+    attributes:
+      label: Version
+      description: Write the version you are experiencing this bug in
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: Select the platform(s) you are experiencing the bug on.
+      multiple: true
+      options:
+        - Windows x64
+        - Windows x86
+        - Windows arm64
+        - Linux x64
+        - Linux arm64
+        - Linux arm32
+        - Linux ppc64le
+        - Linux riscv64
+        - macOS x64
+        - macOS arm64
+        - FreeBSD x64
+  - type: dropdown
+    id: java-version
+    attributes:
+      label: Java Version
+      description: Select the Java version(s) you are experiencing the bug with.
+      multiple: true
+      options:
+        - 28 (Early Access)
+        - 27 (Release Candidate)
+        - 26
+        - 25
+        - 24
+        - 23
+        - 21
+        - 20
+        - 19
+        - 18
+        - 17
+        - 16
+        - 15
+        - 14
+        - 13
+        - 12
+        - 11
+        - 10
+        - 9
+        - 8
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the bug you're encountering in as much detail as possible. And also remember to try provide a minimum reproducible example.
+      placeholder: Type the description here.
+  - type: textarea
+    id: log
+    attributes:
+      label: Crash Reports or Log Files
+      description: Attach any crash reports or log files for  this bug.
+      placeholder: Copy & Paste your reports or log files here, or select/drag the file into this field.

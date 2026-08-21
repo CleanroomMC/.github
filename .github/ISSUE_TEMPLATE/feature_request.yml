@@ -1,0 +1,10 @@
+name: Feature Request
+description: New ideas, mechanics and behaviours you wish to propose.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Propose the feature you'd like to be added to the project.
+      placeholder: Type the description here.
