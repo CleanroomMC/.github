@@ -10,7 +10,7 @@
         <td><a href="https://cleanroommc.com">🌏 Website</a></td>
     </tr>
     <tr>
-        <td><a href="https://discord.gg/f2K4aSpG4F">💭 Discord</a></td>
+        <td><a href="https://discord.cleanroommc.com">💭 Discord</a></td>
     </tr>
     <tr>
         <td><a href="https://cleanroommc.com/wiki/">📖 Wiki</a></td>
